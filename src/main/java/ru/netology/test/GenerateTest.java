@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.test;
 
 import data.Generate;
 import org.junit.jupiter.api.BeforeEach;
